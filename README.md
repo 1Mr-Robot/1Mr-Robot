@@ -35,6 +35,7 @@ Programador Full-Stack especializado en Django y MySQL, enfocado en el desarroll
 
 <p align="left">
     <img src="images/django.png" height="50" alt="django"  />&nbsp;
+    <img src="images/react-native.png" height="50" alt="react native"  />&nbsp;
     <img src="images/python.png" height="50" alt="python"  />&nbsp;
     <img src="images/html.png" height="50" alt="html"  />&nbsp;
     <img src="images/css.png" height="50" alt="css"  />&nbsp;
