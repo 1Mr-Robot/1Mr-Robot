@@ -49,7 +49,7 @@ Programador Full-Stack especializado en Django y MySQL, enfocado en el desarroll
 ## Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Mr-Robot&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=1Mr-Robot&theme=sakura-x&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ## Contribuciones hechas este mes
