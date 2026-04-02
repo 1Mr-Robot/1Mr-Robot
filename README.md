@@ -6,6 +6,8 @@
 
 Programador Full-Stack especializado en Django y MySQL, enfocado en el desarrollo de aplicaciones web modernas, funcionales y escalables. Con experiencia en el despliegue de webs con Docker y Docker-Compose y con interés en seguir aprendiendo y mejorando continuamente.
 
+<img src="https://raw.githubusercontent.com/1Mr-Robot/1Mr-Robot/output/snake.svg" alt="Snake animation" />
+
 ## Contáctame
 
 <div align="left">
@@ -57,5 +59,3 @@ Programador Full-Stack especializado en Django y MySQL, enfocado en el desarroll
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Mr-Robot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </p>
-
-<img src="https://raw.githubusercontent.com/1Mr-Robot/1Mr-Robot/output/snake.svg" alt="Snake animation" />
