@@ -17,7 +17,7 @@ Desarrollador Full-Stack enfocado en la construcción de aplicaciones web y móv
   <a href="mailto:uzielo8017518@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail"  />
   </a>
-  <a href="https://www.linkedin.com/in/uziel-omar-flores-torres-374a54195/" target="_blank">
+  <a href="https://www.linkedin.com/in/uzielflores/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin"  />
   </a>
   <a href="https://wa.me/8180908961" target="_blank">
