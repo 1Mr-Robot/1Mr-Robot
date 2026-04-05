@@ -4,7 +4,7 @@
 
 ### Estudiante en Ingeniería de Software
 
-Programador Full-Stack especializado en Django y MySQL, enfocado en el desarrollo de aplicaciones web modernas, funcionales y escalables. Con experiencia en el despliegue de webs con Docker y Docker-Compose y con interés en seguir aprendiendo y mejorando continuamente.
+Desarrollador Full-Stack enfocado en la construcción de aplicaciones web y móviles utilizando Django, React Native y MySQL. Experiencia en desarrollo backend, diseño de bases de datos y despliegue de aplicaciones con Docker. Orientado a la creación de soluciones funcionales, escalables y con buenas prácticas de desarrollo.
 
 <img src="https://raw.githubusercontent.com/1Mr-Robot/1Mr-Robot/output/snake.svg" alt="Snake animation" />
 
